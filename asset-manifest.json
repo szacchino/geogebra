@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/geogebra/static/css/main.a98e04b1.css",
-    "main.js": "/geogebra/static/js/main.e7ca9f5c.js",
+    "main.js": "/geogebra/static/js/main.3cdc6ca4.js",
     "index.html": "/geogebra/index.html",
     "main.a98e04b1.css.map": "/geogebra/static/css/main.a98e04b1.css.map",
-    "main.e7ca9f5c.js.map": "/geogebra/static/js/main.e7ca9f5c.js.map"
+    "main.3cdc6ca4.js.map": "/geogebra/static/js/main.3cdc6ca4.js.map"
   },
   "entrypoints": [
     "static/css/main.a98e04b1.css",
-    "static/js/main.e7ca9f5c.js"
+    "static/js/main.3cdc6ca4.js"
   ]
 }
